@@ -1,2 +1,3 @@
-# editable_filds_vue
+# Редактируемые поля на vue.js
 По клику по полю вызывается попап с инпутом, где можно ввести новое значение поля.
+Сайт: https://stasokulov.github.io/editable_filds_vue/
